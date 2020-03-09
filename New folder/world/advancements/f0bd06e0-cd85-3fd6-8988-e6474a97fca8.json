@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-03-07 15:05:39 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-03-07 15:05:39 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-03-07 15:04:52 +1100",
+      "minecraft:wooded_mountains": "2020-03-07 15:05:27 +1100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-03-07 15:05:39 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-07 15:05:21 +1100"
+    },
+    "done": true
+  },
+  "DataVersion": 2230
+}
